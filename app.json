@@ -1,8 +1,8 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "rajathcazrod",
+  "description": "Javascript WhatsApp bot made by rajathcazrod",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["rajathcazrod"],
   "success_url": "/",
 
     "stack": "container",
@@ -14,39 +14,39 @@
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "rajathcazrod.",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
     },
      "PREFIX": {
-       "description": "Bot command prefix, (e.g, . , ! @ etc",
+       "description": ".",
       "value": "."
       "required": true,
       
     },
       "MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "description": "public",
+        "value":"public",
         "required": true  
         
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ rajathcazrod*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "919497708027"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "rajathcazrod",
       "required": true
     }
 
